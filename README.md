@@ -1,3 +1,5 @@
+![Kylo Banner](./A_digital_graphic_banner_showcases_Kylo,_who_aspir.png)
+
 # Hey there, I'm Kylo  
 
 ### Future MIT Engineer | JEE Warrior | Code-Learner | Writer in the Making
